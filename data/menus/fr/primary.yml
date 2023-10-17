@@ -1,4 +1,12 @@
 ---
 title: Menu principal
-items: []
+items:
+- title: Préparer
+  target: ''
+  kind: blank
+  children: []
+- title: Enseigner
+  target: ''
+  kind: blank
+  children: []
 
