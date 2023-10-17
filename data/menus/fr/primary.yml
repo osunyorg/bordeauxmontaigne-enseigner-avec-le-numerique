@@ -1,6 +1,10 @@
 ---
 title: Menu principal
 items:
+- title: Découvrir
+  target: "/decouvrir/"
+  kind: page
+  children: []
 - title: Préparer
   target: ''
   kind: blank
