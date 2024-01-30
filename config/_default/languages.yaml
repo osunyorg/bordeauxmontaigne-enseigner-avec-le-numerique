@@ -5,6 +5,18 @@ fr:
   contentDir: content/fr
   languageCode: fr
   languageName: Français
+  params:
+    social:
+      x: >-
+        https://twitter.com/UBMontaigne
+      linkedin: >-
+        https://www.linkedin.com/school/universit%C3%A9-michel-de-montaigne-bordeaux-3-/
+      youtube: >-
+        https://www.youtube.com/@UBmontaigne
+      instagram: >-
+        https://www.instagram.com/UBMontaigne/
+      facebook: >-
+        https://www.facebook.com/UBordeauxMontaigne
   permalinks:
   taxonomies:
     administrator: administrators
