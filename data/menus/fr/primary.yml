@@ -5,6 +5,7 @@ items:
   target: "/decouvrir/"
   kind: page
   children: []
+  file: content/fr/pages/decouvrir/_index.html
 - title: Préparer
   target: ''
   kind: blank
