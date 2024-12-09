@@ -7,17 +7,34 @@ fr:
   languageCode: fr
   languageName: Français
   params:
-    social:
-      x: >-
-        https://twitter.com/UBMontaigne
-      linkedin: >-
-        https://www.linkedin.com/school/universit%C3%A9-michel-de-montaigne-bordeaux-3-/
-      youtube: >-
-        https://www.youtube.com/@UBmontaigne
-      instagram: >-
-        https://www.instagram.com/UBMontaigne/
-      facebook: >-
-        https://www.facebook.com/UBordeauxMontaigne
+    contact_details:
+      social_networks:
+        facebook:
+          label: >-
+            UBordeauxMontaigne
+          value: >-
+            https://www.facebook.com/UBordeauxMontaigne
+        instagram:
+          label: >-
+            UBMontaigne
+          value: >-
+            https://instagram.com/UBMontaigne
+        linkedin:
+          label: >-
+            linkedin.comschooluniversité-michel-de-montaigne-bordeaux-3-
+          value: >-
+            https://www.linkedin.com/school/universit%C3%A9-michel-de-montaigne-bordeaux-3-/
+        x:
+          label: >-
+            UBMontaigne
+          value: >-
+            https://x.com/UBMontaigne
+        youtube:
+          label: >-
+            UBmontaigne
+          value: >-
+            https://www.youtube.com/@UBmontaigne
+
   permalinks:
     posts: /actualites/:year-:month-:day-:slug/
     posts_categories: /actualites/:slug/
