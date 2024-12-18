@@ -4,27 +4,33 @@ items:
 - title: Découvrir
   target: "/decouvrir/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/decouvrir"
   file: content/fr/pages/decouvrir/_index.html
 - title: Préparer
   target: ''
   kind: blank
+  new_tab: false
   children: []
 - title: Enseigner
   target: ''
   kind: blank
+  new_tab: false
   children: []
 - title: Évaluer
   target: ''
   kind: blank
+  new_tab: false
   children: []
 - title: Vérifier
   target: ''
   kind: blank
+  new_tab: false
   children: []
 - title: S'inspirer
   target: ''
   kind: blank
+  new_tab: false
   children: []
 
