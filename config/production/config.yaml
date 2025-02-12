@@ -2,6 +2,11 @@
 
 baseURL: https://bordeauxmontaigne-enseigner-avec-le-numerique.web.deuxfleurs.fr
 
+## OSUNY
+osuny:
+  website:
+    id: 49835c4c-932a-42a8-954a-700f430b0596
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
