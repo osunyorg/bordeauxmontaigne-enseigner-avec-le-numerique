@@ -2,35 +2,47 @@
 title: Menu principal
 items:
 - title: Découvrir
+  slug: decouvrir
   target: "/decouvrir/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/decouvrir"
   file: content/fr/pages/decouvrir/_index.html
 - title: Préparer
+  slug: preparer
   target: ''
   kind: blank
   new_tab: false
   children: []
+  descendants_targets: []
 - title: Enseigner
+  slug: enseigner
   target: ''
   kind: blank
   new_tab: false
   children: []
+  descendants_targets: []
 - title: Évaluer
+  slug: evaluer
   target: ''
   kind: blank
   new_tab: false
   children: []
+  descendants_targets: []
 - title: Vérifier
+  slug: verifier
   target: ''
   kind: blank
   new_tab: false
   children: []
+  descendants_targets: []
 - title: S'inspirer
+  slug: s-inspirer
   target: ''
   kind: blank
   new_tab: false
   children: []
+  descendants_targets: []
 
